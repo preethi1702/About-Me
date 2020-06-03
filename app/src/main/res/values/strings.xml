@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aleks Haecky</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">Hi, my name is Aleks.
+  \n\nI love fish.
+ \n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+ \nFun fact is that Ihave several aquaries and also a river.
+ \n\nI like eating fish,too.Raw fish.Grilled fish. smoked fish.poached fish - not so much.
+\nAnd sometimes Ieven go fishing.
+\nAnd even less sometimes,I actually carch something.
+ \n\nOnce, when I was camping in canada, and very hungry, I even caught a large salmon with my hands
+ \n\nI\'ll when i was camping in canada, and very hungry,i even caught a large salmon with my hands.
+  \nYou should ask someone else about finishing, though.\n\n
+    </string>
+    <string name="what_is_your_nickname">what is ur nickname?</string>
+    <string name="Done">done</string>
+    <string name="textview">TextView</string>
+    <string name="Input_Method_Service">hint</string>
+</resources>
